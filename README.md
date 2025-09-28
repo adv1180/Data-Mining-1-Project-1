@@ -1,1 +1,13 @@
-# Data-Mining-1_Project-1
+# STA 5703 Data Mining Methodology I 
+
+## Regression Analysis on Superconductivity Data
+
+## Project Overview
+- **Goal:** Predict superconducting critical temperature ($T_c$) from formula-derived descriptors.  
+- **Dataset:** 21,263 samples with 81 engineered features + target variable.  
+- **Models Implemented:**
+  - Simple Linear Regression  
+  - Multiple Linear Regression  
+  - Ridge Regression (L2 regularization)  
+  - Lasso Regression (L1 regularization)  
+  - k-Nearest Neighbors (KNN) Regression  
