@@ -3,7 +3,7 @@
 ## Project 1: Regression Analysis on Superconductivity Data
 
 ## Project Overview
-- **Goal:** Predict superconducting critical temperature ($T_c$) from formula-derived descriptors.  
+- **Goal:** Predict superconducting critical temperature.  
 - **Dataset:** 21,263 samples with 81 engineered features + target variable.  
 - **Models Implemented:**
   - Simple Linear Regression  
